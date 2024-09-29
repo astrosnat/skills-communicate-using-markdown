@@ -8,7 +8,12 @@
 
 Have an image of a catto.
 
-#### meanwhile this is h4
+#### Wow, a code example!
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
 ##### you get the point by now
 
